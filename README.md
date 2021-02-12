@@ -1,2 +1,2 @@
 # ReduxDemo
-This is the Redux demo CodewithMost
+This is the Redux demo CodewithMosh
